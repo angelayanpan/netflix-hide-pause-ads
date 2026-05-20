@@ -4,7 +4,7 @@ A Chrome extension that hides the pause screen ads on Netflix.
 
 ## Install
 
-**From the Chrome Web Store:** *(link coming soon)*
+[Install from the Chrome Web Store](https://chromewebstore.google.com/detail/netflix-hide-pause-ads/baodjmmmahfkfehkdlpobekajonnlomm)
 
 **Manually:**
 1. Download or clone this repo
